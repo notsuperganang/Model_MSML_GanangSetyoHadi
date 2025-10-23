@@ -1,0 +1,13 @@
+# DagsHub MLflow Tracking URLs
+
+## DagsHub Repository
+https://dagshub.com/notsuperganang/MSML-Dicoding
+
+## MLflow Tracking URI
+https://dagshub.com/notsuperganang/MSML-Dicoding.mlflow
+
+## Experiment URL
+https://dagshub.com/notsuperganang/MSML-Dicoding.mlflow/#/experiments/0
+
+## Latest Run URL
+https://dagshub.com/notsuperganang/MSML-Dicoding.mlflow/#/experiments/0/runs/dcb4c9f6bba842f5ba707ba1f0da900d
